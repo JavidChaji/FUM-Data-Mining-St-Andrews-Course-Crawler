@@ -1,0 +1,475 @@
+1648038756412	geckodriver	INFO	Listening on 127.0.0.1:51000
+1648038759509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51001" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilepMj4Gh"
+1648038760154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilepMj4Gh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51001/devtools/browser/9aa99fff-b103-4679-a30b-21394d940063
+1648038763803	Marionette	INFO	Listening on port 51007
+1648038764344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1648039969969	Marionette	INFO	Stopped listening on port 51007
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile19jV5V\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648039599731	geckodriver	INFO	Listening on 127.0.0.1:63897
+1648039602813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63898" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile0nqLIk"
+1648039603325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile0nqLIk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63898/devtools/browser/0581d8f8-1b55-41d6-927a-e8c030d62bbf
+1648039606606	Marionette	INFO	Listening on port 63903
+1648039607008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648039971324	Marionette	INFO	Stopped listening on port 63903
+8039713916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63980" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileDbX56t"
+1648039714434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileDbX56t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63980/devtools/browser/05dcae38-0cb8-44b3-ace4-fd4b354d1644
+1648039717502	Marionette	INFO	Listening on port 63985
+1648039717616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648039972054	Marionette	INFO	Stopped listening on port 63985
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileddGWAh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64046/devtools/browser/72112da2-5aba-4d21-a55c-635c3f2d898e
+1648039749939	Marionette	INFO	Listening on port 64051
+1648039750427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648039762148	Marionette	INFO	Stopped listening on port 64051
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648039900901	geckodriver	INFO	Listening on 127.0.0.1:64119
+1648039903978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64120" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile6DvdfL"
+1648039904471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile6DvdfL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64120/devtools/browser/c9da7422-c9b9-446f-89e8-4f5f42ba5a05
+1648039907772	Marionette	INFO	Listening on port 64125
+1648039908220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648039973264	Marionette	INFO	Stopped listening on port 64125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64192" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilebHVIqM"
+1648039958446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilebHVIqM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64192/devtools/browser/a4e02892-b0b7-47f9-9e41-ed5df90b202e
+1648039961454	Marionette	INFO	Listening on port 64199
+1648039961972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040006737	Marionette	INFO	Stopped listening on port 64199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64255" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileFmgREu"
+1648039978077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileFmgREu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64255/devtools/browser/d89ff46b-567f-454f-9272-7a41dd960b74
+1648039981530	Marionette	INFO	Listening on port 64262
+1648039981766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040007579	Marionette	INFO	Stopped listening on port 64262
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648040128297	geckodriver	INFO	Listening on 127.0.0.1:64388
+1648040131376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64389" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilecjK5Am"
+1648040131896	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilecjK5Am\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64389/devtools/browser/bf932919-2fef-4477-8fa5-d30e8efcce51
+1648040135448	Marionette	INFO	Listening on port 64395
+1648040135559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040404359	Marionette	INFO	Stopped listening on port 64395
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileRqMdzh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64480/devtools/browser/e23acdc9-1f24-4ec4-a87f-e57462b85f64
+1648040272431	Marionette	INFO	Listening on port 64485
+1648040272905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040405688	Marionette	INFO	Stopped listening on port 64485
+8040401616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64569" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileTTS1M4"
+1648040402117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileTTS1M4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64569/devtools/browser/29290351-a14e-4afc-9919-03bf10b10177
+1648040405973	Marionette	INFO	Listening on port 64575
+1648040406462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040438981	geckodriver	INFO	Listening on 127.0.0.1:64647
+1648040442087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64648" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile3kOLV8"
+1648040442578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile3kOLV8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64648/devtools/browser/1a23b680-13ed-41b8-93b5-09d5d5da4d7e
+1648040446014	Marionette	INFO	Listening on port 62109
+1648040446304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040454747	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648042289389	geckodriver	INFO	Listening on 127.0.0.1:62283
+1648042292469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62284" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileaP6ADW"
+1648042292949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileaP6ADW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62284/devtools/browser/b90ab42f-86ad-472a-b2ad-c16bc16d820f
+1648042295937	Marionette	INFO	Listening on port 62289
+1648042296173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648042304792	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648042385738	Marionette	INFO	Stopped listening on port 62289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62355" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileKvCAEZ"
+1648042331384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileKvCAEZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62355/devtools/browser/f938ffe4-c805-454b-9771-abc76b4d6f28
+1648042334818	Marionette	INFO	Listening on port 62360
+1648042335243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648042343753	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648042386801	Marionette	INFO	Stopped listening on port 62360
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62435" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileyXpqyR"
+1648042380203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileyXpqyR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62435/devtools/browser/0e8c8c4f-7811-4caf-adc8-8e91bcb073e6
+1648042383972	Marionette	INFO	Listening on port 62440
+1648042384061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648042393418	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648042985062	Marionette	INFO	Stopped listening on port 62440
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62559" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilebRIoHl"
+1648042883139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilebRIoHl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62559/devtools/browser/4d0bc785-1b60-4091-a207-400e1e910912
+1648042886703	Marionette	INFO	Listening on port 62564
+1648042886887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648042895456	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648042986206	Marionette	INFO	Stopped listening on port 62564
+8042922943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62633" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileaLXujC"
+1648042923400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileaLXujC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62633/devtools/browser/3e5a83ce-ffd3-48d3-8932-cf93e304893e
+1648042927113	Marionette	INFO	Listening on port 62639
+1648042927167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648042935332	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648042988528	Marionette	INFO	Stopped listening on port 62639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62707" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileLruZdJ"
+1648042986105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileLruZdJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62707/devtools/browser/5d1e3b9e-99e4-4ea0-b4f4-b06fc27104cf
+1648042990072	Marionette	INFO	Listening on port 62715
+1648042990426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648042998897	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648043021446	geckodriver	INFO	Listening on 127.0.0.1:50528
+1648043024521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50529" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile1eg82z"
+1648043024996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile1eg82z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50529/devtools/browser/1304f5d1-1544-4df2-b82f-ff0ef5741427
+1648043028301	Marionette	INFO	Listening on port 50535
+1648043028717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648043067396	Marionette	INFO	Stopped listening on port 50535
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+\\Local\\Temp\\rust_mozprofileIbZVjS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50604/devtools/browser/c20c305d-c502-4b92-bf5c-0f0f6d8544ef
+1648043065594	Marionette	INFO	Listening on port 50609
+1648043065747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648043074855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648043197349	geckodriver	INFO	Listening on 127.0.0.1:50686
+1648043200431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50687" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilesfMf7T"
+1648043200921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilesfMf7T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50687/devtools/browser/df171fba-fcf3-40b6-a36d-12dd84ae0e2d
+1648043204625	Marionette	INFO	Listening on port 50692
+1648043204733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648043312074	geckodriver	INFO	Listening on 127.0.0.1:50772
+1648043315174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50773" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileWeS1g7"
+1648043315644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileWeS1g7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50773/devtools/browser/f1e6cb98-52a0-42b6-8e16-da05eb9a9ff9
+1648043319200	Marionette	INFO	Listening on port 50779
+1648043319422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648043327941	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648043462626	geckodriver	INFO	Listening on 127.0.0.1:50849
+1648043465680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50850" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileLKc5dy"
+1648043466137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileLKc5dy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50850/devtools/browser/630d50ef-d6fe-4da5-ad92-db0d1faf70e3
+1648043469392	Marionette	INFO	Listening on port 50855
+1648043469889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648043483529	Marionette	INFO	Stopped listening on port 50855
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648043486628	geckodriver	INFO	Listening on 127.0.0.1:50898
+1648043489708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50899" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileaNPDvL"
+1648043490190	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileaNPDvL\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: "Could not load engine amazondotcom@search.mozilla.org: Error: Data is not ready."
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2451\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2451\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2451\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+1648058703901	geckodriver	INFO	Listening on 127.0.0.1:56538
+1648058706978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56539" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileKBzn1h"
+1648058707576	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileKBzn1h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56539/devtools/browser/8d25008e-e11b-40c1-b7ba-ddbe086d3f18
+1648058711265	Marionette	INFO	Listening on port 56545
+1648058711322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648058966303	Marionette	INFO	Stopped listening on port 56545
+8058816698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56621" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileE3eIvU"
+1648058817266	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileE3eIvU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56621/devtools/browser/52134836-d941-4165-9d67-f0ac1d032f0d
+1648058821244	Marionette	INFO	Listening on port 56628
+1648058821532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648058832595	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648058967420	Marionette	INFO	Stopped listening on port 56628
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56700" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilejRLSl4"
+1648058915859	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilejRLSl4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56700/devtools/browser/2b2ef0c5-72a1-497c-aa32-b8d4938ddc31
+1648058919351	Marionette	INFO	Listening on port 56706
+1648058919520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648058930814	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648058968344	Marionette	INFO	Stopped listening on port 56706
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56774" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilerlmMNV"
+1648058963244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilerlmMNV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56774/devtools/browser/d32736e9-b453-4836-a86e-17754993d5dd
+1648058967220	Marionette	INFO	Listening on port 56779
+1648058967488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648059322836	geckodriver	INFO	Listening on 127.0.0.1:57532
+1648059325931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57533" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileMwR9Ow"
+1648059326383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileMwR9Ow\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57533/devtools/browser/04daf238-6adf-417e-af06-f5f3553872cc
+1648059329915	Marionette	INFO	Listening on port 57538
+1648059330132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1648112495243	geckodriver	INFO	Listening on 127.0.0.1:56992
+1648112498303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56993" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile9b2VBP"
+1648112498945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile9b2VBP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56993/devtools/browser/c38377ef-3dd9-40da-9910-66275b40a5d4
+1648112503636	Marionette	INFO	Listening on port 56998
+1648112504171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648112516988	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648113200555	geckodriver	INFO	Listening on 127.0.0.1:58439
+1648113206204	geckodriver	INFO	Listening on 127.0.0.1:58446
+1648113209304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58447" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile7JNYaj"
+1648113209809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile7JNYaj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58447/devtools/browser/4cd82671-6458-4525-8a1e-fa981757061f
+1648113213839	Marionette	INFO	Listening on port 58452
+1648113214116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648113224042	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648113598125	Marionette	INFO	Stopped listening on port 58452
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58540" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileBEwhsh"
+1648113391371	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileBEwhsh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58540/devtools/browser/259f6408-b0b4-4e3a-bd6c-4f744ad19ee8
+1648113394887	Marionette	INFO	Listening on port 58545
+1648113394970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648113599123	Marionette	INFO	Stopped listening on port 58545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648113742028	geckodriver	INFO	Listening on 127.0.0.1:58656
+1648113745089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58657" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilepunkyU"
+1648113745608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilepunkyU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58657/devtools/browser/7872446e-9d83-44ff-aae6-0422efc8815b
+1648113749334	Marionette	INFO	Listening on port 58662
+1648113749421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648113759986	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648113846591	Marionette	INFO	Stopped listening on port 58662
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU1648113851223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58772" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileg441I1"
+1648113851724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileg441I1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58772/devtools/browser/37c25549-bc9f-4cc7-b2ce-224901d50348
+1648113855244	Marionette	INFO	Listening on port 58778
+1648113855419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648113865973	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648113968489	geckodriver	INFO	Listening on 127.0.0.1:58856
+1648113971562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58857" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile8qvTDq"
+1648113972116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile8qvTDq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58857/devtools/browser/76882cd3-6029-4a36-a15b-c442b67db0c5
+1648113975462	Marionette	INFO	Listening on port 58862
+1648113975757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648113985062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648114099590	Marionette	INFO	Stopped listening on port 58862
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58937" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilenUFTxx"
+1648114037370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilenUFTxx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58937/devtools/browser/597df024-a277-4e58-a3be-447119089b7e
+1648114041339	Marionette	INFO	Listening on port 58945
+1648114041693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648114051340	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648114100393	Marionette	INFO	Stopped listening on port 58945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+pen the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile8Q3gRD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59016/devtools/browser/67768654-bf2b-4d3a-b9d0-681444943a03
+1648114093002	Marionette	INFO	Listening on port 59021
+1648114093082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648114105762	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648114232656	Marionette	INFO	Stopped listening on port 59021648114232785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59104" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileE3m5tg"
+1648114233423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileE3m5tg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59104/devtools/browser/d5020921-0367-4898-a6fa-dc244261f0cf
+1648114236791	Marionette	INFO	Listening on port 59110
+1648114236982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648114245927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648114282803	geckodriver	INFO	Listening on 127.0.0.1:59175
+1648114285871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59176" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilebp2TID"
+1648114286358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilebp2TID\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59176/devtools/browser/4f69594f-3823-482f-a7b0-c6dc0c055976
+1648114290500	Marionette	INFO	Listening on port 59182
+1648114290760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648114300112	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1648115066781	Marionette	INFO	Stopped listening on port 59182
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+pen the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofile6octDH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57087/devtools/browser/9c518e4b-1b74-4473-acf5-cb0184786cf6
+1648115067909	Marionette	INFO	Listening on port 57094
+1648115067964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648115077490	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648115180395	geckodriver	INFO	Listening on 127.0.0.1:57163
+1648115185639	geckodriver	INFO	Listening on 127.0.0.1:57171
+1648115188703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57172" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilemu3J7n"
+1648115189165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofilemu3J7n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57172/devtools/browser/8c7f1f3e-f144-4197-8df8-16cb0d681199
+1648115192412	Marionette	INFO	Listening on port 57177
+1648115192883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648115357574	Marionette	INFO	Stopped listening on port 57177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57264" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileOncGTV"
+1648115351540	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileOncGTV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57264/devtools/browser/43b88c1a-c9c7-4fa9-9ebc-f56700159494
+1648115355438	Marionette	INFO	Listening on port 57269
+1648115355840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648115365404	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648115532752	geckodriver	INFO	Listening on 127.0.0.1:57373
+1648115535855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57374" "-no-remote" "-profile" "C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileHp89JL"
+1648115536331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Davood\\AppData\\Local\\Temp\\rust_mozprofileHp89JL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57374/devtools/browser/e8fdc0cc-346b-4ad6-adae-984f02858471
+1648115540095	Marionette	INFO	Listening on port 57379
+1648115540165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648115549670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
