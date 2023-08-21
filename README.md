@@ -1,3 +1,3 @@
 # data-crawling
 
-FUM Data Mining St Andrews Course Crawler
+FUM Data Mining St Andrews Course Information Crawler
