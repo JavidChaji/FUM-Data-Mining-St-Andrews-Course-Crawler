@@ -44,9 +44,9 @@ FUM Data Mining St Andrews Course Information Crawler
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Data-Mining-St-Andrews-Course-Information-Crawler.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Data-Mining-St-Andrews-Course-Information-Crawler/blob/master/LICENSE
 
 
 <!-- Linkedin -->
