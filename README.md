@@ -51,7 +51,7 @@ FUM Data Mining St Andrews Course Information Crawler
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
-This section should list any major frameworks/libraries used to bootstrap your project.
+Technologies and Tools Utilized in this Project
 
 * [![Python][Python.org]][Python-url]
 
@@ -159,5 +159,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Python.org]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow
+[Python.org]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [Python-url]: https://www.python.org/
