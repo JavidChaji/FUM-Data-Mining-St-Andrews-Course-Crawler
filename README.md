@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
 # data-crawling
 
@@ -53,7 +53,7 @@ FUM Data Mining St Andrews Course Information Crawler
 
 Technologies and Tools Utilized in this Project
 
-* [![Python][Python.org]][Python-url]
+* [![Python][Python-Shield]][Python-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,8 +156,10 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
-[Python.org]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-[Python-url]: https://www.python.org/
+<!-- Python -->
+[Python-Shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+
+[Python-URL]: https://www.python.org/
