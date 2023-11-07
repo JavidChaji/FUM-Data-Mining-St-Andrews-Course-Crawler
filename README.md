@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][Linkedin-Shield]][Javid-Linkedin-URL]
+[![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
 # data-crawling
 
@@ -153,10 +153,10 @@ Use this space to list resources you find helpful and would like to give credit 
 [License-URL]: https://github.com/javidchaji/FUM-Data-Mining-St-Andrews-Course-Information-Crawler/blob/master/LICENSE
 
 
-<!-- Linkedin -->
-[Linkedin-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+<!-- LinkedIn -->
+[LinkedIn-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[Javid-Linkedin-URL]: https://linkedin.com/in/javidchaji
+[Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
 
 
 <!-- Python -->
