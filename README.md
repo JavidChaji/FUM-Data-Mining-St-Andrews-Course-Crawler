@@ -1,20 +1,16 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
 
-
-
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
 # data-crawling
 
 FUM Data Mining St Andrews Course Information Crawler
-
 
 
 
@@ -46,7 +42,6 @@ FUM Data Mining St Andrews Course Information Crawler
 
 
 
-
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
@@ -56,7 +51,6 @@ Technologies and Tools Utilized in this Project
 * [![Python][Python-Shield]][Python-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -78,14 +72,13 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- CONTACT -->
@@ -96,7 +89,6 @@ Javid Chaji - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.
 Project Link: [https://github.com/JavidChaji/FUM-Data-Mining-St-Andrews-Course-Information-Crawler](https://github.com/JavidChaji/FUM-Data-Mining-St-Andrews-Course-Information-Crawler)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -115,8 +107,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
