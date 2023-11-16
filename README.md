@@ -54,6 +54,7 @@ FUM Data Mining St Andrews Course Information Crawler
 Technologies and Tools Utilized in this Project
 
 * [![Python][Python-Shield]][Python-URL]
+* [![Selenium][Selenium-Shield]][Selenium-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,3 +160,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [Python-Shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
 [Python-URL]: https://www.python.org/
+
+
+<!-- Selenium -->
+[Selenium-Shield]: https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white
+
+[Selenium-URL]: https://www.python.org/
